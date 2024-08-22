@@ -14,7 +14,7 @@ git clone https://github.com/dxzenith/Story-Protocol.git && cd Story-Protocol
 ```bash
 nano .env
 ```
-- Use `W` , `A`, `S`, `D` key to move the cursor and use `Ctrl + X` and the press `Enter` to save the `.env` file
+- Use `W` , `A`, `S`, `D` key to move the cursor and use `Ctrl + X` then `Y` and the press `Enter` to save the `.env` file
 - Make sure that you have atleast 0.2 Sepolia ETH in the wallet
 - Now install all the dependencies
 ```bash
