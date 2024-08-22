@@ -9,6 +9,7 @@ https://github.com/user-attachments/assets/92088d65-accf-4fa5-8d7f-047c67f14d71
 ```bash
 git clone https://github.com/dxzenith/Story-Protocol.git && cd Story-Protocol
 ```
+- Always use **Burner Wallet** to try out these type tasks
 - Add your sepolia wallet's private key (without 0x) to `.env` file using below command
 ```bash
 nano .env
